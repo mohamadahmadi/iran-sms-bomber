@@ -1,42 +1,39 @@
 <div align="center">
-
-  <h1 align="center">💣 SMS Bomber Ultimate</h1>
-  <p align="center">
+  <a href="https://github.com/mohamadahmadi/iran-sms-bomber">
+    <img src="https://raw.githubusercontent.com/mohamadahmadi/iran-sms-bomber/main/assets/img/logo.png" alt="SMS Bomber Logo" width="120"/>
+  </a>
+  
+  <h1>SMS Bomber Ultimate</h1>
+  
+  <p>
     <b>ابزاری برای شوخی و سرگرمی (Just for Fun & Education)</b><br>
     طراحی شده با PHP برای اهداف آموزشی
   </p>
 
-  <p align="center">
+  <p>
     <!-- Stars -->
     <a href="https://github.com/mohamadahmadi/iran-sms-bomber/stargazers">
-      <img src="https://img.shields.io/github/stars/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=star&color=ffce45&labelColor=302D41" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/mohamadahmadi/iran-sms-bomber?style=flat-square&color=yellow" alt="Stars"/>
     </a>
     <!-- Forks -->
     <a href="https://github.com/mohamadahmadi/iran-sms-bomber/network/members">
-      <img src="https://img.shields.io/github/forks/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=git&color=919191&labelColor=302D41" alt="Forks"/>
+      <img src="https://img.shields.io/github/forks/mohamadahmadi/iran-sms-bomber?style=flat-square&color=orange" alt="Forks"/>
     </a>
     <!-- Issues -->
     <a href="https://github.com/mohamadahmadi/iran-sms-bomber/issues">
-      <img src="https://img.shields.io/github/issues/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=github&color=ff6363&labelColor=302D41" alt="Issues"/>
+      <img src="https://img.shields.io/github/issues/mohamadahmadi/iran-sms-bomber?style=flat-square&color=red" alt="Issues"/>
     </a>
     <!-- License -->
     <a href="https://github.com/mohamadahmadi/iran-sms-bomber/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=license&color=61c766&labelColor=302D41" alt="License"/>
+      <img src="https://img.shields.io/github/license/mohamadahmadi/iran-sms-bomber?style=flat-square&color=blue" alt="License"/>
     </a>
-  </p>
-  
-  <p align="center">
-    <!-- Repo Size -->
-    <img src="https://img.shields.io/github/repo-size/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=files&color=7dd3fc&labelColor=302D41" alt="Repository Size"/>
-    <!-- Last Commit -->
-    <a href="https://github.com/mohamadahmadi/iran-sms-bomber/commits/main">
-      <img src="https://img.shields.io/github/last-commit/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=git-commit&color=f472b6&labelColor=302D41" alt="Last Commit"/>
-    </a>
+    <!-- Size -->
+    <img src="https://img.shields.io/github/repo-size/mohamadahmadi/iran-sms-bomber?style=flat-square&color=success" alt="Size"/>
     <!-- Language -->
-    <img src="https://img.shields.io/github/languages/top/mohamadahmadi/iran-sms-bomber?style=for-the-badge&logo=php&color=777BB4&labelColor=302D41" alt="Language"/>
+    <img src="https://img.shields.io/github/languages/top/mohamadahmadi/iran-sms-bomber?style=flat-square&color=8892bf" alt="Language"/>
   </p>
-  
-  <p align="center">
+
+  <p>
     <a href="#features">ویژگی‌ها</a> •
     <a href="#installation">نصب و اجرا</a> •
     <a href="#responsibility">سلب مسئولیت</a>
