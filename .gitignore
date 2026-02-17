@@ -1,0 +1,7 @@
+log.txt
+blacklist.json
+.DS_Store
+.idea/
+.vscode/
+*.log
+tmp/
