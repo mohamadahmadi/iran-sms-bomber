@@ -1,20 +1,36 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rastikerdar/vazirmatn/master/misc/Farsi-Digits/vazir-wolff-medium-fd.png" alt="SMS Bomber Logo" width="100"/>
-  <h1>💣 SMS Bomber Ultimate</h1>
-  <p>
+  <a href="https://github.com/mohamadahmadi/iran-sms-bomber">
+    <img src="https://raw.githubusercontent.com/mohamadahmadi/iran-sms-bomber/main/assets/img/logo.png" alt="SMS Bomber Logo" width="150"/>
+  </a>
+  <h1 align="center">💣 SMS Bomber Ultimate</h1>
+  <p align="center">
     <b>قدرتمندترین ابزار تست نفوذ و بررسی فشار پیامکی (SMS Stress Testing)</b><br>
     طراحی شده با PHP و رابط کاربری مدرن
   </p>
+
+  <p align="center">
+    <a href="https://github.com/mohamadahmadi/iran-sms-bomber/stargazers">
+      <img src="https://img.shields.io/github/stars/mohamadahmadi/iran-sms-bomber?style=for-the-badge&color=blueviolet" alt="Stars"/>
+    </a>
+    <a href="https://github.com/mohamadahmadi/iran-sms-bomber/network/members">
+      <img src="https://img.shields.io/github/forks/mohamadahmadi/iran-sms-bomber?style=for-the-badge&color=orange" alt="Forks"/>
+    </a>
+    <a href="https://github.com/mohamadahmadi/iran-sms-bomber/issues">
+      <img src="https://img.shields.io/github/issues/mohamadahmadi/iran-sms-bomber?style=for-the-badge&color=red" alt="Issues"/>
+    </a>
+  </p>
   
-  <a href="#features">ویژگی‌ها</a> •
-  <a href="#installation">نصب و اجرا</a> •
-  <a href="#responsibility">سلب مسئولیت</a>
+  <p align="center">
+    <a href="#features">ویژگی‌ها</a> •
+    <a href="#installation">نصب و اجرا</a> •
+    <a href="#responsibility">سلب مسئولیت</a>
+  </p>
 </div>
 
 ---
 
 ## 🚀 معرفی پروژه (Introduction)
-این پروژه یک ابزار پیشرفته برای تست سرویس‌های پیامکی (SMS OTP) است. با استفاده از این ابزار می‌توانید پایداری و امنیت سرویس‌های ارسال پیامک خود را در برابر درخواست‌های مکرر بررسی کنید. این ابزار دارای **سیستم هوشمند حذف سرویس‌های غیرفعال** و **مدیریت بلک‌لیست** است.
+این پروژه یک ابزار پیشرفته برای تست سرویس‌های پیامکی (SMS OTP) است. با استفاده از این ابزار می‌توانید پایداری و امنیت سرویس‌های ارسال پیامک خود را در برابر درخواست‌های مکرر بررسی کنید. تمامی سرویس‌های موجود در `services.php` به‌روزرسانی شده و دارای قابلیت **بررسی سلامت خودکار** هستند.
 
 ### ✨ ویژگی‌های کلیدی (Key Features)
 
@@ -36,16 +52,16 @@
 
 ### پیش‌نیازها
 - **PHP** نسخه 7.4 یا بالاتر.
-- وب‌سرور (Apache یا Nginx) - پیشنهاد ما استفاده از **Laragon** یا **XAMPP** است.
+- وب‌سرور (Apache یا Nginx) - پیشنهاد ما استفاده از **Laragon**, **XAMPP** یا **WAMP** است.
 
 ### مراحل نصب
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sms-bomber-ultimate.git
+   git clone https://github.com/mohamadahmadi/iran-sms-bomber.git
    ```
 2. وارد پوشه پروژه شوید:
    ```bash
-   cd sms-bomber-ultimate
+   cd iran-sms-bomber
    ```
 3. سرور را اجرا کنید (اگر از PHP Built-in Server استفاده می‌کنید):
    ```bash
@@ -60,6 +76,13 @@
 1. **شماره موبایل** هدف را وارد کنید (فرمت: `09xxxxxxxxx`).
 2. بر روی دکمه **شروع بمباران 🚀** کلیک کنید.
 3. برای پاکسازی لیست سرویس‌ها از موارد خراب، دکمه **بررسی وضعیت سرویس‌ها 🛡️** را بزنید.
+
+<br>
+
+<div align="center">
+  <img src="assets/img/screen001.png" alt="Screenshot 1" width="45%">
+  <img src="assets/img/screenc002.png" alt="Screenshot 2" width="45%">
+</div>
 
 ---
 
@@ -76,5 +99,5 @@
 اگر سرویس جدیدی دارید یا باگی پیدا کردید، خوشحال می‌شویم که **Pull Request** ارسال کنید یا در بخش Issues مطرح نمایید.
 
 <div align="center">
-  <sub>Made with ❤️ & PHP</sub>
+  <sub>Made with ❤️ & PHP by <a href="https://github.com/mohamadahmadi">Mohamad Ahmadi</a></sub>
 </div>

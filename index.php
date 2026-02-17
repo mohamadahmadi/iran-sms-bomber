@@ -452,9 +452,9 @@
         </div>
 
         <!-- Footer -->
-        <a href="https://github.com/amirmalek0" target="_blank" class="footer-link">
-            <img src="assets/img/github.png" alt="GitHub">
-            <span>صفحه گیت‌هاب پروژه</span>
+        <!-- Footer -->
+        <a href="https://github.com/mohamadahmadi/iran-sms-bomber" target="_blank" class="footer-link">
+            <img src="assets/img/github.png" alt="GitHub" style="width: 50%; max-width: 150px; opacity: 0.8; transition: opacity 0.3s;">
         </a>
 
     </div>
