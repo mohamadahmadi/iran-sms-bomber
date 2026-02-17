@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mohamadahmadi/iran-sms-bomber">
-    <img src="https://raw.githubusercontent.com/mohamadahmadi/iran-sms-bomber/main/assets/img/logo.png" alt="SMS Bomber Logo" width="120"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyUMXAPpLYmtWBnuf_u66ObnDf2Qj1Np9sCw&s" alt="SMS Bomber Logo" width="120"/>
   </a>
   
   <h1>SMS Bomber Ultimate</h1>
